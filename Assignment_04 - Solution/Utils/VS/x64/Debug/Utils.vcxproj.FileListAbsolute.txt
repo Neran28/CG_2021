@@ -1,0 +1,2 @@
+E:\Uni\Übung_CG_2021\Code\Assignment_04 - Solution\Color\VS\x64\Debug\Utils.pdb
+E:\Uni\Übung_CG_2021\Code\Assignment_04 - Solution\Utils\VS\x64\Debug\Utils.pdb
